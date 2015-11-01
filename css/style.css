@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(250,250,250);
+}
+h1 {
+  color: rgb(0,0,0);
+  font-size:64px;
+  font-family: Lora;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+h2 {
+  color: rgb(0,0,0);
+  font-size:16px;
+  font-family: Vollkorn;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+h3 {
+    color: rgb(0,0,0);
+  font-size:20px;
+  font-family: Vollkorn;
+}
+
+h4 {
+   color: rgb(0,0,0);
+  font-size:20px;
+  font-family: Vollkorn;
+}
+
+li {
+  color: rgb(0,0,0);
+  font-size:16px;
+  font-family: Vollkorn;
+}
+img {
+  width:360px;
+  height: 100%;
+}
+.list {
+  color: rgb(0,0,0);
+  font-size: 16px;
+  font-family: helvetica;
+  display: inline-block;
+
+}
